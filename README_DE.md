@@ -3,7 +3,7 @@
 
 # GlucoDataAuto
 
-Nachdem der Android Auto Teil gegen die Richtlinien von Google Play verstosen hat, wurde dieser Teil in eine extra App namens GlucoDataAuto ausgelagert.
+Nachdem der Android Auto Teil von [GlucoDataHandler](https://github.com/pachi81/GlucoDataHandler/blob/master/README_DE.md) gegen die Richtlinien von Google Play verstosen hat, wurde dieser Teil in eine extra App namens GlucoDataAuto ausgelagert.
 Diese App empfäng sowohl die Glukosewerte, als auch die Einstellungen von GlucoDataHandler.
 
 Alternativ kann sie auch als eigenständige App für Juggluco oder xDrip+ verwendet werden.
@@ -31,7 +31,7 @@ INFO: das Benachrichtigungs Popup erscheint bei jedem neuen Wert.
 
 # Android Auto Installieren
 
-Um GlucoDataHandler in Android Auto zu verwenden, müssen die folgende Schritte durchgeführt werden:
+Um GlucoDataAuto in Android Auto zu verwenden, müssen die folgende Schritte durchgeführt werden:
 
 ## 1. Entwicklereinstellungen aktivieren
 

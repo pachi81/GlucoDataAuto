@@ -3,14 +3,14 @@
 
 # GlucoDataAuto
 
-Ze względu na to, że część aplikacji GlucodataHandler dotycząca Android Auto nie spełnia wymagań polityk sklepu Google Play, została ona przeniesiona do dodatkowej aplikacji pod nazwą GlucoDataAuto, która odbiera ustawienia i wartości glukozy z GlucoDataHandler.
+Ze względu na to, że część aplikacji [GlucoDataHandler](https://github.com/pachi81/GlucoDataHandler/blob/master/README_DE.md) dotycząca Android Auto nie spełnia wymagań polityk sklepu Google Play, została ona przeniesiona do dodatkowej aplikacji pod nazwą GlucoDataAuto, która odbiera ustawienia i wartości glukozy z GlucoDataHandler.
 
 Może ona być też używana jako samodzielna aplikacja w połączeniu z Juggluco lub xDrip+.
 
 Zainstaluj ostatnią wersję GlucoDataAuto_X.X.X.apk, którą znaleźć można w zakładce [Releases](https://github.com/pachi81/GlucoDataAuto/releases) 
 
 ## Opcja nr 1: Korzystanie z fikcyjnego odtwarzacza multimediów
-Jeśli nie używasz żadnego odtwarzacza multimedialnego w Android Auto do słuchania muzyki, możesz użyć aplikacji GlucoDataHandler, aby wyświetlić jego wartości w wiadomościach dotyczących multimediów:
+Jeśli nie używasz żadnego odtwarzacza multimedialnego w Android Auto do słuchania muzyki, możesz użyć aplikacji GlucoDataAuto, aby wyświetlić jego wartości w wiadomościach dotyczących multimediów:
 
 <img src='images/AA_media.png' width=300>
 
@@ -28,7 +28,7 @@ Można również korzystać z powiadomień:
 
 # Konfiguracja Android Auto
 
-Aby aktywować GlucoDataHandler dla Android Auto, należy wykonać następujące kroki:
+Aby aktywować GlucoDataAuto dla Android Auto, należy wykonać następujące kroki:
 
 ## 1. Aktywacja trybu programisty
 
