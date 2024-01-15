@@ -1,5 +1,5 @@
-[<img src='images/de.png' height=10> Deutsche Version](GlucoDataAuto_DE.md)  
-[<img src='images/pl.png' height=10> Wersja polska](GlucoDataAuto_PL.md)
+[<img src='images/de.png' height=10> Deutsche Version](README_DE.md)  
+[<img src='images/pl.png' height=10> Wersja polska](README_PL.md)
 
 # Android Auto
 
@@ -7,7 +7,7 @@ As the Android Auto part of GlucoDataHandler does not fullfill Google PlayStore 
 
 It can also be used as standalone application for Juggluco or xDrip+.
 
-Install last GlucoDataAuto_X.X.X.apk from [Releases](https://github.com/pachi81/GlucoDataHandler/releases) 
+Install last GlucoDataAuto_X.X.X.apk from [Releases](https://github.com/pachi81/GlucoDataAuto/releases) 
 
 ## Option #1: Using dummy media player
 If you are not using any Android Auto media player for listen music, you can use GlucoDataHandler to display its values in the media tap:
