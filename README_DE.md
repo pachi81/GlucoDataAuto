@@ -1,7 +1,7 @@
 [<img src='images/en.png' height=10> English version](README.md)  
 [<img src='images/pl.png' height=10> Wersja polska](README_PL.md)
 
-# Android Auto
+# GlucoDataAuto
 
 Nachdem der Android Auto Teil gegen die Richtlinien von Google Play verstosen hat, wurde dieser Teil in eine extra App namens GlucoDataAuto ausgelagert.
 Diese App empfäng sowohl die Glukosewerte, als auch die Einstellungen von GlucoDataHandler.
