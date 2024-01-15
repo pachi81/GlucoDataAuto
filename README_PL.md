@@ -1,7 +1,7 @@
 [<img src='images/en.png' height=10> English version](README.md)  
 [<img src='images/de.png' height=10> Deutsche Version](README_DE.md)
 
-# Android Auto
+# GlucoDataAuto
 
 Ze względu na to, że część aplikacji GlucodataHandler dotycząca Android Auto nie spełnia wymagań polityk sklepu Google Play, została ona przeniesiona do dodatkowej aplikacji pod nazwą GlucoDataAuto, która odbiera ustawienia i wartości glukozy z GlucoDataHandler.
 
