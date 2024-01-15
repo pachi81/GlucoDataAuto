@@ -1,7 +1,7 @@
 [<img src='images/de.png' height=10> Deutsche Version](README_DE.md)  
 [<img src='images/pl.png' height=10> Wersja polska](README_PL.md)
 
-# Android Auto
+# GlucoDataAuto
 
 As the Android Auto part of GlucoDataHandler does not fullfill Google PlayStore policies, this part has been moved to an extra app called GlucoDataAuto, which receives its settings and values from GlucoDataHandler. 
 
