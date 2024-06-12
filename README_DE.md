@@ -31,24 +31,35 @@ INFO: das Benachrichtigungs Popup erscheint bei jedem neuen Wert.
 
 Lade die letzte Version von `GlucoDataAuto_#.#.apk` von [hier](https://github.com/pachi81/GlucoDataAuto/releases) auf das Smartphone herunter und installiere sie (dafür muss die Installation von unbekannten Quellen erlaubt werden).
 
+Android Auto ist entweder eine separate App oder Bestandteil vom System und kann über die Android Einstellungen geöffnet werden.
+
 Um GlucoDataAuto in Android Auto zu verwenden, müssen die folgende Schritte durchgeführt werden:
 
 ## 1. Entwicklereinstellungen aktivieren
 
-* Android Auto App öffnen
-* bis zu Version scrollen
-* mehrfach auf Version drücken bis ein Popup mit "Entwicklereinstellungen zulassen" kommt
-* "OK" drücken
+- Android Auto öffnen
+- bis zu Version scrollen
+- mehrfach auf Version drücken bis ein Popup mit `Entwicklereinstellungen zulassen` kommt
+- `OK` drücken
 
 ## 2. "Unbekannte Quellen" aktivieren
 
-* Android Auto App öffnen
-* in den 3-Punkt Menü "Entwicklereinstellungen auswählen"
-* bis zu "Unbekannte Quellen" scrollen und aktivieren
+- Android Auto öffnen
+- in den 3-Punkt Menü `Entwicklereinstellungen auswählen`
+- bis zu `Unbekannte Quellen` scrollen und aktivieren
 
 ## 3. Benachrichtigungen aktivieren
 
-* Android Auto App öffnen
-* bis zu "Benachrichtigungen" scrollen
-* "Unterhaltungen anzeigen" aktivieren
-* "Erste Zeile einer Unterhaltung anzeigen" aktivieren
+- Android Auto öffnen
+- bis zu `Messaging` scrollen
+- `Benachrichtigungen für Nachrichten anzeigen` aktivieren
+- `Erste Zeile einer Nachricht anzeigen` aktivieren
+
+## 4. GlucoDataAuto aktivieren
+
+- Android Auto öffnen
+- bis zu `Display` scrollen
+- `Launcher anpassen` öffnen
+- `GlucoDataAuto` aktivieren
+
+Ist GlucoDataAuto nicht verfügbar, bitte das Telefon neustarten.
