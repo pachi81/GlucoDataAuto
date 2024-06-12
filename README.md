@@ -61,3 +61,8 @@ To activate GlucoDataAuto for Android Auto, you have to do the following steps:
 - enable `GlucoDataAuto`
 
 If GlucoDataAuto is not available, please restart your phone.
+
+# Support my work
+[🍺 Buy me a beer](https://www.buymeacoffee.com/pachi81)
+
+[Paypal me](https://paypal.me/pachi81)
