@@ -50,3 +50,9 @@ To activate GlucoDataAuto for Android Auto, you have to do the following steps:
 * scroll down to "Notifications"
 * enable "Show conversations"
 * enable "Show first line of conversations"
+
+
+# Support my work
+[🍺 Buy me a beer](https://www.buymeacoffee.com/pachi81)
+
+[Paypal me](https://paypal.me/pachi81)
