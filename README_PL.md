@@ -44,7 +44,7 @@ Aby aktywować GlucoDataAuto dla Android Auto, należy wykonać następujące kr
 - otwórz Android Auto
 - otwórz w menu (3 kropki) `Ustawienia programisty`
 - przewiń w dół do pozycji `Nieznane źródła`
-- włącz `ją`
+- aktywuj ją
 
 ## 3. Ustawienia powiadomień
 
