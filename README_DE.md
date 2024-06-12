@@ -4,18 +4,16 @@
 # GlucoDataAuto
 
 Nachdem der Android Auto Teil von [GlucoDataHandler](https://github.com/pachi81/GlucoDataHandler/blob/master/README_DE.md) gegen die Richtlinien von Google Play verstosen hat, wurde dieser Teil in eine extra App namens GlucoDataAuto ausgelagert.
-Diese App empfäng sowohl die Glukosewerte, als auch die Einstellungen von GlucoDataHandler.
+Diese App empfängt sowohl die Glukosewerte, als auch die Einstellungen von GlucoDataHandler.
 
-Alternativ kann sie auch als eigenständige App für Juggluco oder xDrip+ verwendet werden.
+Alternativ kann sie auch als eigenständige App verwendet werden.
 
-Installiere die letzte GlucoDataAuto_X.X.X.apk von [hier](https://github.com/pachi81/GlucoDataAuto/releases)
-
-## Option #1: Dummy Media Player
+## Option #1: Fake Media Player
 Wenn sie nicht über Android Auto Musik hören, können sie die Media Player Unterstützung verwenden:
 
 <img src='images/AA_media.png' width=300>
 
-WICHTIG: da die App selber keine Musik abspielt, sollte man alle anderen Media Player aus dem Launcher entfernen, damit diese App entsprechend angezeigt wird.
+Um den Media Player für die geteilte Ansicht (Coolwalk) zu aktivieren, die Wiedergabe in einen anderen Media Player stoppen und in GlucoDataAuto auf Play drücken.
 
 ## Option #2: Benachrichtigungen verwenden
 
@@ -30,6 +28,8 @@ INFO: das Benachrichtigungs Popup erscheint bei jedem neuen Wert.
 <img src='images/AA_App.png' width=300>
 
 # Android Auto Installieren
+
+Lade die letzte Version von `GlucoDataAuto_#.#.apk` von [hier](https://github.com/pachi81/GlucoDataAuto/releases) auf das Smartphone herunter und installiere sie (dafür muss die Installation von unbekannten Quellen erlaubt werden).
 
 Um GlucoDataAuto in Android Auto zu verwenden, müssen die folgende Schritte durchgeführt werden:
 
