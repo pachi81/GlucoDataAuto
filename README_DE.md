@@ -63,3 +63,8 @@ Um GlucoDataAuto in Android Auto zu verwenden, müssen die folgende Schritte dur
 - `GlucoDataAuto` aktivieren
 
 Ist GlucoDataAuto nicht verfügbar, bitte das Telefon neustarten.
+
+# Unterstützt meine Arbeit
+[🍺 Buy me a beer](https://www.buymeacoffee.com/pachi81)
+
+[Paypal me](https://paypal.me/pachi81)
