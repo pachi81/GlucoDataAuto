@@ -64,6 +64,10 @@ Um GlucoDataAuto in Android Auto zu verwenden, müssen die folgende Schritte dur
 
 Ist GlucoDataAuto nicht verfügbar, bitte das Telefon neustarten.
 
+# Quellen
+
+-> [Konfiguration der Quellen](./SOURCES_DE.md)
+
 # Unterstützt meine Arbeit
 [🍺 Buy me a beer](https://www.buymeacoffee.com/pachi81)
 

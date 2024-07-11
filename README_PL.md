@@ -62,6 +62,10 @@ Aby aktywować GlucoDataAuto dla Android Auto, należy wykonać następujące kr
 
 Jeśli GlucoDataAuto nie jest dostępny, proszę zrestartować telefon.
 
+# Źródła
+
+-> [Instrukcja konfiguracji źródła](https://github.com/pachi81/GlucoDataHandler/blob/master/SOURCES_PL.md)
+
 # Wesprzyj moją pracę
 [🍺 Buy me a beer](https://www.buymeacoffee.com/pachi81)
 
