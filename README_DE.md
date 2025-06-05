@@ -54,6 +54,7 @@ Um GlucoDataAuto in Android Auto zu verwenden, müssen die folgende Schritte dur
 - bis zu `Messaging` scrollen
 - `Benachrichtigungen für Nachrichten anzeigen` aktivieren
 - `Erste Zeile einer Nachricht anzeigen` aktivieren
+- Falls die Einstellungen ausgegraut sind, erst `Benachrichtigungen mit Assistant` aktivieren
 
 ## 4. GlucoDataAuto aktivieren
 
