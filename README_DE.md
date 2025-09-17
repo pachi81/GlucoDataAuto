@@ -67,7 +67,7 @@ Ist GlucoDataAuto nicht verfügbar, bitte das Telefon neustarten.
 
 # Quellen
 
--> [Konfiguration der Quellen](https://github.com/pachi81/GlucoDataHandler/blob/master/SOURCES_DE.md)
+-> [Konfiguration der Quellen](https://github.com/pachi81/GlucoDataHandler/wiki/Sensors)
 
 # Unterstützt meine Arbeit
 [🍺 Buy me a beer](https://www.buymeacoffee.com/pachi81)
