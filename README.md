@@ -52,6 +52,7 @@ To activate GlucoDataAuto for Android Auto, you have to do the following steps:
 - scroll down to `Messaging`
 - enable `Show message notifications`
 - enable `Show first line of messages`
+- if these settings are grayed out, enable `Notification with Assistant` first
 
 ## 4. Enable GlucoDataAuto
 
@@ -65,7 +66,7 @@ If GlucoDataAuto is not available, please restart your phone.
 
 # Sources
 
--> [Source configuration instruction](https://github.com/pachi81/GlucoDataHandler/blob/master/SOURCES.md)
+-> [Source configuration instruction](https://github.com/pachi81/GlucoDataHandler/wiki/Sensors)
 
 # Support my work
 [🍺 Buy me a beer](https://www.buymeacoffee.com/pachi81)
